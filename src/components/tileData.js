@@ -1,6 +1,6 @@
 const tileData = [
   {
-    img: require("./static/logo192.png"),
+    img: require("./static/images/grid-list/logo192.png"),
     title: "Breakfast",
     author: "jill111",
     cols: 2,

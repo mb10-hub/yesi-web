@@ -41,7 +41,7 @@ const HomeContent = () => {
           item
           xs={8}
         >
-          <ListSubheader component="div">My Categories</ListSubheader>
+          {/* <ListSubheader component="div"></ListSubheader> */}
         </GridListTile>
         {tileData.map((tile) => (
           <GridListTile key={tile.img}>
